@@ -1,5 +1,5 @@
 # List_graph
-Implementation of lit graph representation.
+Implementation of list graph representation.
 
 Contains next algorithms:
   - Prim's
