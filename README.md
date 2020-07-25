@@ -1,4 +1,4 @@
-# List_graph
+# GraphAlgorythms
 Implementation of list graph representation.
 
 Contains next algorithms:
